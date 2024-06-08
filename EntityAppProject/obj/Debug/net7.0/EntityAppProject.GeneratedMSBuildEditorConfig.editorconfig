@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EntityAppProject
-build_property.ProjectDir = C:\Users\Acer\source\repos\MvcOdevIntProgrmaciligi\EntityAppProject\
+build_property.ProjectDir = C:\Users\Acer\source\repos\MvcOdevIntProgrmaciligi\EntityApp\MvcOdev\EntityAppProject\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

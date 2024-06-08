@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EntityAppProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eff491a20d2f4fdc5aeaf92e1e6a21ff5aa7ac37")]
 [assembly: System.Reflection.AssemblyProductAttribute("EntityAppProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EntityAppProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
