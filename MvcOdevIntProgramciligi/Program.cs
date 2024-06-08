@@ -1,4 +1,4 @@
-namespace MvcOdevIntProgrmaciligi
+namespace MvcOdevIntProgramciligi
 {
     public class Program
     {
