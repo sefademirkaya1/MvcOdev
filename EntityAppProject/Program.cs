@@ -64,18 +64,5 @@ namespace EntityAppProject
 }
 
 
-//Change Tracking db set üzerinde insert update gibi işlemelri izeler ve added updated gibi state ayarlar.
 
-//Solid prensiplerine bak 
-//Dependency injection
-//Clean arcitehcture
-//Web api lere bak
 
-//Öğrenci işlemelri için menü ekleyelim
-//Ders entitysi ekleyelim
-//Öğrenciye ders ataması yapalım
-//Tüm ekranlarda bootsrap kullanalım
-
-//Öğrenci listesinde düzenle sil yanında aldığı dersler bölümü olacak.
-//Ders entitysi olacak
-//FLUENT APİ ile bu işlem yapılacak ders ve öğrenci arasında ilişki olacak
