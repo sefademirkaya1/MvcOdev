@@ -1,4 +1,4 @@
-﻿namespace MvcOdevIntProgrmaciligi.Models
+﻿namespace MvcOdevIntProgramciligi.Models
 {
     public class OkulViewModels
     {
