@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using MvcOdevIntProgrmaciligi.Models.Relationships;
 using MvcOdevIntProgrmaciligi.Models;
 
-namespace MvcOdevIntProgrmaciligi.Controllers
+namespace MvcOdevIntProgramciligi.Controllers
 {
     public class DersController : Controller
     {
