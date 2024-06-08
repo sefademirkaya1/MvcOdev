@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using MvcOdevIntProgrmaciligi.Models.Relationships;
-using MvcOdevIntProgrmaciligi.Models;
+using MvcOdevIntProgramciligii.Models.Relationships;
+using MvcOdevIntProgramciligi.Models;
 
-namespace MvcOdevIntProgrmaciligi.Controllers
+namespace MvcOdevIntProgramciligi.Controllers
 {
     public class StudentController : Controller
     {
