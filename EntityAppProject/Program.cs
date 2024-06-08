@@ -1,7 +1,7 @@
 ﻿
 
 using Microsoft.EntityFrameworkCore.Migrations.Operations;
-using MvcOdevIntProgrmaciligi;
+using MvcOdevIntProgramciligi;
 namespace EntityAppProject
 {
     internal class Program
