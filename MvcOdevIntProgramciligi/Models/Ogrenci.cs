@@ -1,6 +1,6 @@
-﻿using MvcOdevIntProgrmaciligi.Models.Relationships;
+﻿using MvcOdevIntProgramciligi.Models.Relationships;
 
-namespace MvcOdevIntProgrmaciligi.Models
+namespace MvcOdevIntProgramciligi.Models
 {
 
     public class Ogrenci
