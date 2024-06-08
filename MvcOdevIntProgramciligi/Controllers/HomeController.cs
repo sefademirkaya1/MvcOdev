@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using MvcOdevIntProgrmaciligi.Models;
+using MvcOdevIntProgramciligi.Models;
 using System.Diagnostics;
 
-namespace MvcOdevIntProgrmaciligi.Controllers
+namespace MvcOdevIntProgramciligi.Controllers
 {
     public class HomeController : Controller
     {
