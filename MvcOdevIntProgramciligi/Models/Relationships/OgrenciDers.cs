@@ -1,4 +1,4 @@
-﻿namespace MvcOdevIntProgrmaciligi.Models.Relationships
+﻿namespace MvcOdevIntProgramciligi.Models.Relationships
 {
     public class OgrenciDers
     {
