@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using MvcOdevIntProgrmaciligi.Models.Relationships;
-using MvcOdevIntProgrmaciligi.Models;
+using MvcOdevIntProgramciligi.Models.Relationships;
+using MvcOdevIntProgramciligi.Models;
 
 namespace MvcOdevIntProgramciligi.Controllers
 {
