@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace EntityAppProject
 {
 
-    [Table("tblDersler")]  //TableAttribuit
+    [Table("tblDersler")]  
     public class Ders
     {
         public int Dersid { get; set; }
